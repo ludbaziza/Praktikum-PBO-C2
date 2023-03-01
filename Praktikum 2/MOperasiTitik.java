@@ -1,9 +1,8 @@
 /*
-	Muhammad Abdul Aziz
-	24060121140150
-	LAB PBO C2
-	01/03/2023
-*/
+ * File      : MOperasiTitik.java	(01/03/23)	
+ * Penulis   : Muhammad Abdul Aziz
+ * Deskripsi : Kelas yang berisi main dari MOperasiTitik
+ */
 
 class MOperasiTitik{
 	public static void main(String[] args){
