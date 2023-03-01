@@ -1,3 +1,10 @@
+/*
+	Muhammad Abdul Aziz
+	24060121140150
+	LAB PBO C2
+	01/03/2023
+*/
+
 class OperasiTitik{
 	private void refleksiSumbuX(Titik titik){
 		double ordinat = titik.getOrdinat();
