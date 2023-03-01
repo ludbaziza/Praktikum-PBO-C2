@@ -20,3 +20,8 @@ public class Mtitik{
 		System.out.println("t3(" + t3.getAbsis() + "," + t3.getOrdinat() + ")");
 	}
 }
+/*
+	Muhammad Abdul Aziz
+	24060121140150
+	LAB PBO C2
+*/
