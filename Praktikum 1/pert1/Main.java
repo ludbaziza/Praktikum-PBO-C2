@@ -1,3 +1,10 @@
+/*
+	Muhammad Abdul Aziz
+	24060121140150
+	LAB PBO C2
+	01/03/2023
+*/
+
 class Titik{
 	double absis;
 	double ordinat;
@@ -19,8 +26,4 @@ class Titik{
 	
 } 
 
-/*
-	Muhammad Abdul Aziz
-	24060121140150
-	LAB PBO C2
-*/
+
