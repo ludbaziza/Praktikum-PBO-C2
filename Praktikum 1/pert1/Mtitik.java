@@ -1,5 +1,5 @@
 /*
- * File      : MTitik.java		01/03/23
+ * File      : MTitik.java	(01/03/23)	
  * Penulis   : Muhammad Abdul Aziz
  * Deskripsi : Kelas yang berisi main dari MTitik
  */
