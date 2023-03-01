@@ -1,3 +1,10 @@
+/*
+	Muhammad Abdul Aziz
+	24060121140150
+	LAB PBO C2
+	01/03/2023
+*/
+
 public class Mtitik{
 	public static void main(String[] args){
 		Titik t1 = new Titik();
@@ -20,8 +27,3 @@ public class Mtitik{
 		System.out.println("t3(" + t3.getAbsis() + "," + t3.getOrdinat() + ")");
 	}
 }
-/*
-	Muhammad Abdul Aziz
-	24060121140150
-	LAB PBO C2
-*/
