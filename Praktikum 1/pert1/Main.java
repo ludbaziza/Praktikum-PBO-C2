@@ -17,4 +17,10 @@ class Titik{
 		return ordinat = 0;
 	}
 	
-}
+} 
+
+/*
+	Muhammad Abdul Aziz
+	24060121140150
+	LAB PBO C2
+*/
