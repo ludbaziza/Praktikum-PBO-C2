@@ -1,9 +1,8 @@
 /*
-	Muhammad Abdul Aziz
-	24060121140150
-	LAB PBO C2
-	01/03/2023
-*/
+ * File      : Titik.java	(01/03/23)	
+ * Penulis   : Muhammad Abdul Aziz
+ * Deskripsi : Kelas yang berisi main dari Titik
+ */
 
 class Titik{
 	private double absis;
